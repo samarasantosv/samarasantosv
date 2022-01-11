@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Samara Santos Viegas
 
-- 🔭  Estou trabalhando com front-end
-- 🌱 Estudando Kotlin e Java
+- 🔭  Estou trabalhando com desenvolvimento mobile Android
+- 🌱 Estudando Kotlin e Java 
 
 
 <div align="center">
